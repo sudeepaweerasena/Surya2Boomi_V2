@@ -1,1 +1,2 @@
 data/split_train_smote.csv filter=lfs diff=lfs merge=lfs -text
+data/solar_flare_features.csv filter=lfs diff=lfs merge=lfs -text
